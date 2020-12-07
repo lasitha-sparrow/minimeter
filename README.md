@@ -1,5 +1,5 @@
-# minimeter
-arduino based multi-meter
+# Arduino based multi-meter
+
 Welcome to the minimeter wiki!🥇
 
 The whole project based on (https://www.instructables.com/member/VolosR/) little Nano based “semi” multi-meter solution on Instructables.com. and [stephans nanOmeter project](https://www.protowrxs.com/index.php/2020/01/01/nanometer-2020/)(Stephan/ProtoWrxs im really sorry man for editing the content copy>  pasting ;) )
