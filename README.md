@@ -2,7 +2,7 @@
 
 Welcome to the minimeter wiki!🥇
 
-The whole project based on (https://www.instructables.com/member/VolosR/) little Nano based “semi” multi-meter solution on Instructables.com. and [stephans nanOmeter project](https://www.protowrxs.com/index.php/2020/01/01/nanometer-2020/)(Stephan/ProtoWrxs im really sorry man for editing the content copy>  pasting ;) )
+The whole project based on (https://www.instructables.com/member/VolosR/) little Nano based “semi” multi-meter solution on Instructables.com. and [stephans nanOmeter project](https://www.protowrxs.com/index.php/2020/01/01/nanometer-2020/)(Stephan/ProtoWrxs )
 
 ![](https://raw.githubusercontent.com/lasitha-sparrow/minimeter/main/WhatsApp%20Image%202020-12-06%20at%2009.54.26.jpeg)
 
